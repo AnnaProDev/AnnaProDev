@@ -1,7 +1,6 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=7B2179&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
-
 ________________________________________________________________________________________________________________
 
 I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
