@@ -1,16 +1,35 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="latop" width="200" height="200" frameBorder="0">
 
-<!--
-**AnnaProDev/AnnaProDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=7B2179&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
+
+Currently, I'm focusing on expanding my skills in JavaScript and React. I believe in the power of these technologies to create immersive and dynamic web experiences for users.
+
+If you have any questions about my projects or want to discuss anything related to Front-End development, please don't hesitate to reach out. I'm always eager to share my knowledge and collaborate with others in the community.
+<br>
+<h4>My portfolio => https://annaprodev.com </h4>
+
+<h2>Skills and Technologies:</h2>
+
+![image](https://user-images.githubusercontent.com/85047120/197244988-c3dcee48-3f07-4bf1-8a15-c7a0d1181579.png)
+![image](https://user-images.githubusercontent.com/85047120/197244748-d5d909c8-ebb2-4a91-b522-12a7f665a61b.png)
+![image](https://user-images.githubusercontent.com/85047120/197245048-6f3ad437-b09d-48ec-8e6d-a2840bfb371f.png)
+![image](https://user-images.githubusercontent.com/85047120/197245089-12fa8305-e937-48e1-812a-52a1846a84dd.png)
+![image](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![image](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![image](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=Web3.js&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Contact me:</h2>
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aak2326999@gmail.com)](mailto:anna.kondr34@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kondrateva-developer/)](https://www.linkedin.com/in/anna-kondrateva-dev/)
