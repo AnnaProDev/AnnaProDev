@@ -1,4 +1,4 @@
-<img src="https://github.com/AnnaProDev/AnnaProDev/assets/85047120/d8341f15-0bd6-4267-89b8-1926b3f08843" alt="girl&latop" width="50%" height="50%" frameBorder="0">
+<img src="https://github.com/AnnaProDev/AnnaProDev/assets/85047120/d8341f15-0bd6-4267-89b8-1926b3f08843" alt="girl&latop" width="40%" height="40%" frameBorder="0">
 
 <br>
 <br>
