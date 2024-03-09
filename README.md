@@ -1,8 +1,10 @@
 <img src="https://github.com/AnnaProDev/AnnaProDev/assets/85047120/d8341f15-0bd6-4267-89b8-1926b3f08843" alt="girl&latop" width="50%" height="50%" frameBorder="0">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=B85B40&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
-________________________________________________________________________________________________________________
+<br>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=DA210F&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
+________________________________________________________________________________________________________________
 
 I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
 
