@@ -29,7 +29,7 @@ If you have any questions about my projects or want to discuss anything related 
 ![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?AnnaProDev=anuraghazra&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contact me:</h2>
 
