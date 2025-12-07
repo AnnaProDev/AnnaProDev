@@ -31,4 +31,4 @@ If you have any questions about my projects or want to discuss anything related 
 <h2>Contact me:</h2>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aak2326999@gmail.com)](mailto:anna.kondr34@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-kondrateva-developer/)](https://www.linkedin.com/in/anna-kondrateva-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-babich-developer/)](https://www.linkedin.com/in/anna-babich-dev/)
