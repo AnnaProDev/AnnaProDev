@@ -24,6 +24,3 @@ If you have any questions about my projects or want to discuss anything related 
 ![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnnaProDev&theme=graywhitet&hide_border=true)](https://git.io/streak-stats)
