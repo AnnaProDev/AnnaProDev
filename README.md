@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=DA210F&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=33&pause=1000&color=2563EB&background=92929200&random=false&width=435&lines=Hi+there!++I+am+Anna)](https://git.io/typing-svg)
 ________________________________________________________________________________________________________________
 
 I'm a Front-End developer with a passion for building projects from the ground up and bringing them to life.
